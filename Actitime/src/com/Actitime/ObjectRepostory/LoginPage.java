@@ -55,6 +55,11 @@ public class LoginPage {
 		return null;
 	}
 
+	public Object getSelectcheckbox() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 
 }
 	

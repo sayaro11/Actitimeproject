@@ -51,7 +51,7 @@ public class BaseClass {
 			lp.getPasswordfield().sendKeys(pw);		
 			
 			lp.getSelectcheckbox().click();
-			lp.geLoginbutton().click();
+			lp.geLoginbutton();
 			Reporter.log("Logges in sucessfully",true);
 	
 		}
